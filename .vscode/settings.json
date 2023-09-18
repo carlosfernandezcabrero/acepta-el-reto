@@ -1,17 +1,11 @@
 {
-    "java.project.sourcePaths": ["src"],
+    "java.project.sourcePaths": [
+        "src"
+    ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
     ],
     "java.inlayHints.parameterNames.enabled": "none",
-    "java.jdt.ls.java.home": "/Users/carlos/.sdkman/candidates/java/17.0.4-oracle",
-    "[java]": {
-        "editor.defaultFormatter": "redhat.java"
-    },
-    "code-runner.runInTerminal": true,
-    "errorLens.excludeBySource": [
-        "Java(536871799)"
-    ],
     "redhat.telemetry.enabled": false
 }
