@@ -28,5 +28,7 @@ public class App {
             if (numberString.charAt(0) != '-')
                 System.out.println(generateOutput(numberString));
         } while (sc.hasNextLine());
+
+        sc.close();
     }
 }

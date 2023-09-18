@@ -49,6 +49,8 @@ public class App {
                 }
             }
             System.out.println(numMatches);
+
+            sc.close();
         }
     }
 }
